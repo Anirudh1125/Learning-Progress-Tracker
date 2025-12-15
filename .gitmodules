@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Anirudh1125/frontend-Learning-progress-tracker.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Anirudh1125/backend-Learning-progress-tracker.git
