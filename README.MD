@@ -6,7 +6,7 @@ A full-stack web application for tracking learning goals and progress with miles
 
 - **Frontend:** https://frontend-learning-progress-tracker.vercel.app/
 - **Backend API:** https://backend-learning-progress-tracker.onrender.com
-- **Video Demo:** [Link to your uploaded video]
+- **Video Demo:** https://drive.google.com/file/d/1fUhvnsxtIvaOUgdaUjfbmWpkBc1yfIjn/view?usp=sharing
 
 ## Features
 
